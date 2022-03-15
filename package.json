@@ -31,7 +31,7 @@
     "focus-trap": "^5.0.2",
     "intersection-observer": "^0.7.0",
     "ky": "^0.15.0",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "objectFitPolyfill": "^2.3.0",
     "picturefill": "^3.0.3",
     "simplebar": "^5.0.4",
